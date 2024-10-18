@@ -1,1 +1,0 @@
-# naveen-indluru.github.io
