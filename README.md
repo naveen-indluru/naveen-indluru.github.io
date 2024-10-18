@@ -1,5 +1,5 @@
 
-# aakritik.github.io
+# naveen-indluru.github.io
 
 # Getting Started with Create React App
 
